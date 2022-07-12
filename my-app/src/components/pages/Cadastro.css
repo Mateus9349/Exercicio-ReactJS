@@ -1,0 +1,29 @@
+.container{
+    background: rgba(182, 179, 175, 0.952);
+    text-align: center;
+    margin: 10em;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input{
+    text-align: center;
+    background: rgba(182, 179, 175, 0.952);
+    padding: 1em;
+}
+
+.input input{
+   background: whitesmoke;
+   border-radius: 5px;
+}
+
+.input button{
+    background: rgb(4, 172, 172);
+    border-radius: 5px;
+    padding: 10px;
+}

@@ -1,0 +1,22 @@
+.principal{
+    background: none;
+    margin: 20px;
+}
+
+.main{
+    margin-top: 20px;
+    display: flex;
+    box-sizing: border-box;
+    background: none;
+}
+
+.text, h1, p{
+    margin-top: 2em;
+    background: none;
+}
+
+.im{
+    background: none;
+    border-radius: 20px;
+}
+
